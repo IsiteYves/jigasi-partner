@@ -9,7 +9,7 @@ Install and run
 1. Checkout latest source:
  
  ```
- git clone https://github.com/dushimsam/jigasi-patner.git
+ git clone https://github.com/IsiteYves/jigasi-patner.git
  ```
 2. Install packages:
 
